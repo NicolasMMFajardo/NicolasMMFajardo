@@ -25,9 +25,9 @@ func getAttributes() (Contact, Life, Coding) {
 			"hasExperience": {"c++", "python"},
 		},
 		Databases:    []string{"sql server", "mysql", "sqlite"},
-		Specialities: []string{"fullstack", "software engineering", "apis"
+		Specialities: []string{"Microcontrolers", "software engineering", "apis"
 		,"games"},
-		Ide:          []string{"vscode", "visual studio"},
+		Ide:          []string{"vscode", "visual studio", "ArduinoIDE", "STM32CubeIDE"},
 	}
 
 	return contact, life, coding
